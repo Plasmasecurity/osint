@@ -2298,28 +2298,6 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Falcon Arch Linux](https://sourceforge.net/projects/falcon-archlinux/) |     |
 | [AttifyOS](https://github.com/adi0x90/attifyos) | Linux distro for pentesting IoT devices. |
 
-[](#my-projects)My Projects
-===========================
-
-| Link | Description |
-| --- | --- |
-| [Python OSINT automation examples](https://github.com/cipher387/Python-osint-automation-examples) | In this repository, I will collect quick and simple code examples that use Python to automate various #osint tasks.  |
-| [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) |     |
-| [Quick hashtags and keywords search](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/) |     |
-| [Quick geolocation search](https://cipher387.github.io/quickgeolocationsearch/) |     |
-| [Phone Number Search Constructor](https://cipher387.github.io/phonenumberqueryconstructor/) |     |
-| [Domain Investigation Toolbox](https://cipher387.github.io/domain_investigation_toolbox/) |     |
-| [IP adress Investigation Toolbox](https://cipher387.github.io/domain_investigation_toolbox/ip.html) |     |
-| [Quick Cache and Archive search](https://cipher387.github.io/quickcacheandarchivesearch/) |     |
-| [Grep for OSINT](https://github.com/cipher387/grep_for_osint) | Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails |
-| [5 Google Custom Search Engine for search 48 pastebin sites](https://cipher387.github.io/pastebinsearchengines/) |     |
-| [CSE for search 20 source code hosting services](https://cipher387.github.io/code_repository_google_custom_search_engines/) |     |
-| [Dorks collections list](https://github.com/cipher387/Dorks-collections-list) | List of Github repositories and articles with list of dorks for different search engines |
-| [APIs for OSINT](https://github.com/cipher387/API-s-for-OSINT) | List of API's for gathering information about phone numbers, addresses, domains etc |
-| [Advanced Search Operators List](https://github.com/cipher387/Advanced-search-operators-list) | List of the links to the docs for different services, which explain using of advanced search operators |
-| [Code understanding tools list](https://github.com/cipher387/code-understanding-tools) | Tools for understanding other people's code |source
-| [Awesome grep](https://github.com/cipher387/awesome-grep) | List of GREP modifications and alternatives for a variety of purposes |
-| [Maltego transforms list](https://github.com/cipher387/maltego-transforms-list) | list of tools that handle different data and make it usable in Maltego |
 
 * * *
 
